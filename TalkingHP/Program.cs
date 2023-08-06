@@ -10,7 +10,7 @@ namespace TalkingHP
     {
         static void Main(string[] args)
         {
-            WriteLine ("Code Modified inside Git");
+            WriteLine ("Code Modified inside Git 2");
         }
     }
 }
